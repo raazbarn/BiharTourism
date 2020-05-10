@@ -3,3 +3,61 @@
 .navbar-brand {
     font-size: 3rem;
 }
+
+.navbarback {
+    background-color: cornflowerblue
+    // background-image: url("logos/navbarimg1.gif");
+    // background-color: transparent !important;
+}
+
+// .gif-edit {
+//     border-spacing: 25px;
+// }
+// .bt-edit {
+//     text-align: center;
+//     text-decoration-color: darkkhaki;
+//     text-size-adjust: 55px;
+// }
+// .bg-img {
+//     /* The image used */
+//     background-image: url("img_nature.jpg");
+  
+//     min-height: 380px;
+  
+//     /* Center and scale the image nicely */
+//     background-position: center;
+//     background-repeat: no-repeat;
+//     background-size: cover;
+  
+//     /* Needed to position the navbar */
+//     position: relative;
+//   }
+  
+//   /* Position the navbar container inside the image */
+//   .container {
+//     position: absolute;
+//     margin: 20px;
+//     width: auto;
+//   }
+  
+//   /* The navbar */
+  .topnav {
+    overflow: hidden;
+    width: 90%;
+    height: 115px;
+  }
+  
+//   /* Navbar links */
+//   .topnav a {
+//     float: left;
+//     color: #c01a1a;
+//     text-align: center;
+//     padding: 14px 16px;
+//     text-decoration: none;
+//     font-size: 17px;
+//   }
+  
+//   .topnav a:hover {
+//     background-color: #ddd;
+//     color: black;
+//   }
